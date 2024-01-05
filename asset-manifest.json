@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sharemarket/static/css/main.dc4d6ff2.css",
+    "main.js": "/sharemarket/static/js/main.e0b148d2.js",
+    "static/js/787.ee012666.chunk.js": "/sharemarket/static/js/787.ee012666.chunk.js",
+    "index.html": "/sharemarket/index.html",
+    "main.dc4d6ff2.css.map": "/sharemarket/static/css/main.dc4d6ff2.css.map",
+    "main.e0b148d2.js.map": "/sharemarket/static/js/main.e0b148d2.js.map",
+    "787.ee012666.chunk.js.map": "/sharemarket/static/js/787.ee012666.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.e0b148d2.js"
+  ]
+}
