@@ -1,0 +1,2 @@
+# sharemarket
+basic sharmarket calculation
